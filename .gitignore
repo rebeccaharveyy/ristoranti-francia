@@ -1,0 +1,22 @@
+# R session/workspace files
+.Rhistory
+.RData
+.Ruserdata
+
+# macOS
+.DS_Store
+
+# R project metadata
+.Rproj.user/
+
+# renv (excluded as requested)
+renv/
+
+# Heavy graphics outputs
+*.tiff
+*.tif
+*.bmp
+*.psd
+*.svgz
+*.pdf
+*.eps
